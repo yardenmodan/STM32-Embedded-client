@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "unistd.h": "c",
+        "program.h": "c",
+        "stdlib.h": "c",
+        "winsock.h": "c",
+        "getuserinput.h": "c"
+    }
+}
